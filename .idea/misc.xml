@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/prath/AndroidStudioProjects/Todo_List_Mobile_App/To-Do-List-Mobile-Application/app/src/main/res/drawable/btn_background.xml" value="0.1" />
+        <entry key="..\:/Users/prath/AndroidStudioProjects/Todo_List_Mobile_App/To-Do-List-Mobile-Application/app/src/main/res/drawable/btn_border.xml" value="0.1" />
+        <entry key="..\:/Users/prath/AndroidStudioProjects/Todo_List_Mobile_App/To-Do-List-Mobile-Application/app/src/main/res/menu/menu.xml" value="0.136" />
+      </map>
+    </option>
+  </component>
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="11" project-jdk-type="JavaSDK" />
+</project>
